@@ -1,6 +1,21 @@
 # Data_science_jobs_analysis
 
 * This is a case study on 'Data_science_jobs' using MySQL database.
+
+* Table used contains 10 columns and around 14,000 rows.
+
+* Column information :
+  
+ 1.work_year - year of work 2020 to 2024.
+ 2.Experience_level - EN(Entry level), MI(Mid junior), SE(Immediate senior level), EX(Expert level), DX(Director).
+ 3.Employement_type - PT(Part_time), FT(Full_time), CT(Contract), FL(Freelance).
+ 4.Company_size - L(Large), M(Medium), S(Small).
+ 5.Remote_ratio - 100(Fully-Remote-Job), 50(Half-Remote), 0(In-Office)
+ 6.Job_title - title of the job role.
+ 7.Salary_in_usd - Salaries in US Dollars.
+ 8.Salary_currency.
+ 9.Employee_residence - Country.
+10.Company_location - Country.
   
 * Questions answered during the analysis are as follows :
   
