@@ -9,14 +9,14 @@
   | --------- | ------------|
   | work_year | year of work 2020 to 2024. |
   |Experience_level | EN(Entry level), MI(Mid junior), SE(Immediate senior level), EX(Expert level), DX(Director).|
-* Employement_type - PT(Part_time), FT(Full_time), CT(Contract), FL(Freelance).
-* Company_size - L(Large), M(Medium), S(Small).
-* Remote_ratio - 100(Fully-Remote-Job), 50(Half-Remote), 0(In-Office)
-* Job_title - title of the job role.
-* Salary_in_usd - Salaries in US Dollars.
-* Salary_currency.
-* Employee_residence - Country.
-* Company_location - Country.
+  |Employement_type | PT(Part_time), FT(Full_time), CT(Contract), FL(Freelance). |
+  |Company_size  | L(Large), M(Medium), S(Small). |
+  | Remote_ratio | 100(Fully-Remote-Job), 50(Half-Remote), 0(In-Office) |
+  |Job_title | title of the job role. |
+  | Salary_in_usd | Salaries in US Dollars. |
+  | Salary_currency.| Currency |
+  | Employee_residence | Country. |
+  | Company_location - Country. |
   
 * Questions answered during the analysis are as follows :
   
