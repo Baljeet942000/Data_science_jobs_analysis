@@ -5,8 +5,9 @@
 * Table used contains 10 columns and around 14,000 rows.
 
 * Column information :
-  
- | work_year | year of work 2020 to 2024. |
+  | Feature   | Description |
+  | --------- | ------------|
+  | work_year | year of work 2020 to 2024. |
 * Experience_level - EN(Entry level), MI(Mid junior), SE(Immediate senior level), EX(Expert level), DX(Director).
 * Employement_type - PT(Part_time), FT(Full_time), CT(Contract), FL(Freelance).
 * Company_size - L(Large), M(Medium), S(Small).
