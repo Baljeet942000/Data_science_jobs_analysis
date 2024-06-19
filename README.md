@@ -16,7 +16,7 @@
   | Salary_in_usd | Salaries in US Dollars. |
   | Salary_currency.| Currency |
   | Employee_residence | Country. |
-  | Company_location - Country. |
+  | Company_location | Country. |
   
 * Questions answered during the analysis are as follows :
   
